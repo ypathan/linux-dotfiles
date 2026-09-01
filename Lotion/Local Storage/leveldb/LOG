@@ -1,6 +1,0 @@
-2026/07/07-12:53:04.095 49834 Reusing MANIFEST /home/ypathan/.config/Lotion/Local Storage/leveldb/MANIFEST-000001
-2026/07/07-12:53:04.100 49834 Recovering log #50
-2026/07/07-12:53:04.101 49834 Reusing old log /home/ypathan/.config/Lotion/Local Storage/leveldb/000050.log 
-2026/07/07-12:55:04.616 49831 Level-0 table #54: started
-2026/07/07-12:55:04.624 49831 Level-0 table #54: 26989 bytes OK
-2026/07/07-12:55:04.635 49831 Delete type=0 #50
