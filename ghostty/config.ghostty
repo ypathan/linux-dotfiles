@@ -1,0 +1,21 @@
+font-size = 15
+cursor-style-blink = false
+
+font-family = ComicShannsMono Nerd Font 
+
+adjust-cell-width = 0%
+adjust-cell-height = 5%
+
+config-file=?auto/theme.ghostty
+
+keybind = ctrl+c=copy_to_clipboard:mixed
+keybind = ctrl+v=paste_from_clipboard
+keybind = shift+ctrl+c=text:\x03
+
+background-opacity = 0.9
+background-blur = true
+cursor-color = #ff0055
+
+# Window padding
+window-padding-x = 5
+window-padding-y = 5

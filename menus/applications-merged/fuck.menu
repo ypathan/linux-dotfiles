@@ -1,0 +1,16 @@
+<Menu>
+<Name>Applications</Name>
+<Menu>
+<Directory>fuck-izpack.directory</Directory>
+<Name>fuck</Name>
+<Include>
+<Filename>Start Server (standalone)-1784170725335.desktop</Filename>
+<Filename>Start Server (domain)-1784170725336.desktop</Filename>
+<Filename>JBoss Administration Console (domain)-1784170725337.desktop</Filename>
+<Filename>JBoss Administration Console (standalone)-1784170725338.desktop</Filename>
+<Filename>Shutdown Server (standalone)-1784170725339.desktop</Filename>
+<Filename>Shutdown Server (domain)-1784170725340.desktop</Filename>
+<Filename>Uninstall Platform-1784170725340.desktop</Filename>
+</Include>
+</Menu>
+</Menu>

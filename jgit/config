@@ -1,0 +1,9 @@
+[filesystem "JetBrains s.r.o.|25.0.2|/dev/mapper/luks-510695d9-dfbb-4ecc-9c17-02c6912f103a"]
+	timestampResolution = 3009 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "JetBrains s.r.o.|25.0.3|/dev/mapper/luks-510695d9-dfbb-4ecc-9c17-02c6912f103a"]
+	timestampResolution = 3579 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Eclipse Adoptium|21.0.11|/dev/mapper/luks-510695d9-dfbb-4ecc-9c17-02c6912f103a"]
+	timestampResolution = 3479 nanoseconds
+	minRacyThreshold = 0 nanoseconds

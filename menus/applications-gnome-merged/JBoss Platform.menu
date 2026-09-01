@@ -1,0 +1,16 @@
+<Menu>
+<Name>Applications</Name>
+<Menu>
+<Directory>JBoss-Platform-izpack.directory</Directory>
+<Name>JBoss Platform</Name>
+<Include>
+<Filename>Start Server (standalone)-1784171587608.desktop</Filename>
+<Filename>Start Server (domain)-1784171587616.desktop</Filename>
+<Filename>JBoss Administration Console (domain)-1784171587617.desktop</Filename>
+<Filename>JBoss Administration Console (standalone)-1784171587617.desktop</Filename>
+<Filename>Shutdown Server (standalone)-1784171587618.desktop</Filename>
+<Filename>Shutdown Server (domain)-1784171587619.desktop</Filename>
+<Filename>Uninstall Platform-1784171587620.desktop</Filename>
+</Include>
+</Menu>
+</Menu>

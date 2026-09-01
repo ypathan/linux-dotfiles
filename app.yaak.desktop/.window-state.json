@@ -1,0 +1,26 @@
+{
+  "main_0": {
+    "width": 1066,
+    "height": 1870,
+    "x": 0,
+    "y": 0,
+    "prev_x": 0,
+    "prev_y": 0,
+    "maximized": false,
+    "visible": true,
+    "decorated": false,
+    "fullscreen": false
+  },
+  "other__settings": {
+    "width": 948,
+    "height": 1030,
+    "x": 0,
+    "y": 0,
+    "prev_x": 0,
+    "prev_y": 0,
+    "maximized": false,
+    "visible": true,
+    "decorated": false,
+    "fullscreen": false
+  }
+}

@@ -1,0 +1,195 @@
+10:02:06.410: Platform: Wayland
+10:02:06.410: CPU Name: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+10:02:06.410: CPU Speed: 400.000MHz
+10:02:06.410: Physical Cores: 4, Logical Cores: 8
+10:02:06.410: Physical Memory: 15699MB Total, 450MB Free
+10:02:06.410: Kernel Version: Linux 7.1.8-200.fc44.x86_64
+10:02:06.410: Distribution: "Fedora Linux" 44
+10:02:06.410: Desktop Environment: GNOME (gnome)
+10:02:06.410: Session Type: wayland
+10:02:06.412: Current Date/Time: 2026-08-20, 10:02:06 AM
+10:02:06.412: Browser Hardware Acceleration: true
+10:02:06.412: Qt Version: 6.11.1 (runtime), 6.11.1 (compiled)
+10:02:06.412: Portable mode: false
+10:02:06.442: OBS 32.1.1 (linux)
+10:02:06.442: ---------------------------------
+10:02:06.443: ---------------------------------
+10:02:06.443: audio settings reset:
+10:02:06.443: 	samples per sec: 48000
+10:02:06.443: 	speakers:        2
+10:02:06.443: 	max buffering:   960 milliseconds
+10:02:06.443: 	buffering type:  dynamically increasing
+10:02:06.448: ---------------------------------
+10:02:06.448: Initializing OpenGL...
+10:02:06.448: Using EGL/Wayland
+10:02:06.482: Initialized EGL 1.5
+10:02:06.497: Loading up OpenGL on adapter Intel Mesa Intel(R) Iris(R) Xe Graphics (TGL GT2)
+10:02:06.497: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.1.7, shading language 4.60
+10:02:06.606: ---------------------------------
+10:02:06.606: video settings reset:
+10:02:06.606: 	base resolution:   1920x1080
+10:02:06.606: 	output resolution: 1920x1080
+10:02:06.606: 	downscale filter:  Bicubic
+10:02:06.606: 	fps:               60/1
+10:02:06.606: 	format:            NV12
+10:02:06.606: 	YUV mode:          Rec. 709/Partial
+10:02:06.606: NV12 texture support enabled
+10:02:06.606: P010 texture support not available
+10:02:06.613: Audio monitoring device:
+10:02:06.613: 	name: Default
+10:02:06.613: 	id: default
+10:02:06.616: ---------------------------------
+10:02:06.620: Failed to load 'en-US' text for module: 'decklink-captions.so'
+10:02:06.625: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+10:02:06.629: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+10:02:06.629: Failed to initialize module 'decklink.so'
+10:02:06.634: [distroav] obs_module_load: you can haz DistroAV (Version 6.2.1)
+10:02:06.644: [distroav] obs_module_load: NDI library detected
+10:02:06.644: [distroav] obs_module_load: NDI library initialized ('NDI SDK LINUX 12:51:52 Apr 13 2026 6.3.2.0')
+10:02:06.644: [distroav] NDI Library Version detected: 6.3.2.0
+10:02:06.644: [distroav] obs_module_load: NDI library version detected (NDI SDK LINUX 12:51:52 Apr 13 2026 6.3.2.0) is compatible
+10:02:06.644: [distroav] register_plugin_features: NDI plugin features registered
+10:02:06.647: [distroav] plugin loaded (full NDI features) (version 6.2.1)
+10:02:06.777: [pipewire] Available capture sources:
+10:02:06.777: [pipewire]     - Monitor source
+10:02:06.777: [pipewire]     - Window source
+10:02:06.788: v4l2loopback not installed, virtual camera not registered
+10:02:06.853: [obs-browser]: Alloy Runtime preferences not found. No migration necessary.
+10:02:06.853: [obs-browser]: Version 2.26.8
+10:02:06.853: [obs-browser]: CEF Version 146.0.7680.177 (runtime), 146.0.11+g3a0fcf1+chromium-146.0.7680.177 (compiled)
+10:02:06.896: VAAPI: API version 1.23
+10:02:06.896: FFmpeg VAAPI H264 encoding not supported
+10:02:06.898: FFmpeg VAAPI AV1 encoding not supported
+10:02:06.899: FFmpeg VAAPI HEVC encoding not supported
+10:02:06.914: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+10:02:06.914: 
+10:02:06.915: NVENC not supported
+10:02:06.915: Failed to initialize module 'obs-nvenc.so'
+10:02:06.923: [obs-pwvideo] plugin loaded successfully (version 0.2.4)
+10:02:06.965: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.7.3 | RPC Version: 1)
+10:02:06.965: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.11.1 | Qt version (run-time): 6.11.1
+10:02:06.965: [obs-websocket] [obs_module_load] Linked ASIO Version: 103002
+10:02:06.969: [obs-websocket] [obs_module_load] Module loaded.
+10:02:06.987: [vlc-video]: VLC 3.0.23 Vetinari found, VLC video source enabled
+10:02:06.987: ---------------------------------
+10:02:06.987:   Loaded Modules:
+10:02:06.987:     vlc-video.so
+10:02:06.987:     text-freetype2.so
+10:02:06.987:     rtmp-services.so
+10:02:06.987:     obs-websocket.so
+10:02:06.987:     obs-webrtc.so
+10:02:06.987:     obs-webkitgtk.so
+10:02:06.987:     obs-vst.so
+10:02:06.987:     obs-transitions.so
+10:02:06.987:     obs-qsv11.so
+10:02:06.987:     obs-pwvideo.so
+10:02:06.987:     obs-outputs.so
+10:02:06.987:     obs-libfdk.so
+10:02:06.987:     obs-filters.so
+10:02:06.987:     obs-ffmpeg.so
+10:02:06.987:     obs-browser.so
+10:02:06.987:     linux-v4l2.so
+10:02:06.987:     linux-pulseaudio.so
+10:02:06.987:     linux-pipewire.so
+10:02:06.987:     linux-jack.so
+10:02:06.987:     linux-capture.so
+10:02:06.987:     linux-alsa.so
+10:02:06.987:     image-source.so
+10:02:06.987:     frontend-tools.so
+10:02:06.987:     distroav.so
+10:02:06.987:     decklink-output-ui.so
+10:02:06.987:     decklink-captions.so
+10:02:06.987: ---------------------------------
+10:02:06.987: ---------------------------------
+10:02:06.987: Available Encoders:
+10:02:06.987:   Video Encoders:
+10:02:06.987: 	- ffmpeg_openh264 (OpenH264)
+10:02:06.987: 	- ffmpeg_svt_av1 (SVT-AV1)
+10:02:06.987: 	- ffmpeg_aom_av1 (AOM AV1)
+10:02:06.987: 	- obs_qsv11_v2 (QuickSync H.264)
+10:02:06.987:   Audio Encoders:
+10:02:06.987: 	- ffmpeg_aac (FFmpeg AAC)
+10:02:06.987: 	- ffmpeg_opus (FFmpeg Opus)
+10:02:06.987: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+10:02:06.987: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+10:02:06.987: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+10:02:06.987: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+10:02:06.987: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+10:02:06.987: 	- libfdk_aac (libfdk AAC)
+10:02:06.987: ==== Startup complete ===============================================
+10:02:07.020: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+10:02:07.020: All scene data cleared
+10:02:07.020: ------------------------------------------------
+10:02:07.026: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+10:02:07.026: Deduplication logic is being applied to all monitored sources.
+10:02:07.026: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.8) 15.0.0'
+10:02:07.026: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+10:02:07.026: pulse-input: Started recording from 'bluez_output.D4_68_AA_A2_01_B5.1.monitor' (default)
+10:02:07.026: [Loaded global audio device]: 'Desktop Audio'
+10:02:07.026: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.8) 15.0.0'
+10:02:07.026: pulse-input: Audio format: float32le, 48000 Hz, 1 channels
+10:02:07.026: pulse-input: Started recording from 'bluez_input.D4:68:AA:A2:01:B5' (default)
+10:02:07.026: [Loaded global audio device]: 'Mic/Aux'
+10:02:07.026: PipeWire initialized
+10:02:07.027: v4l2-input: Start capture from /dev/video0
+10:02:07.035: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+10:02:07.035: Deduplication logic is being applied to all monitored sources.
+10:02:07.122: v4l2-input: Input: 0
+10:02:07.123: v4l2-input: Resolution: 1280x720
+10:02:07.123: v4l2-input: Pixelformat: BGR3
+10:02:07.123: v4l2-input: Linesize: 3840 Bytes
+10:02:07.123: v4l2-input: Framerate: 30.00 fps
+10:02:07.124: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+10:02:07.126: Switched to scene 'Scene'
+10:02:07.126: ------------------------------------------------
+10:02:07.126: Loaded scenes:
+10:02:07.126: - scene 'Scene':
+10:02:07.126:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+10:02:07.126:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+10:02:07.126:         - filter: 'Color Correction' (color_filter_v2)
+10:02:07.126: ------------------------------------------------
+10:02:07.186: [pipewire] Screencast session created
+10:02:07.202: [pipewire] Asking for monitor and window
+10:02:07.293: v4l2-input: /dev/video0: select timed out
+10:02:07.293: v4l2-input: /dev/video0: failed to log status
+10:02:07.595: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Mic/Aux)
+10:02:07.595: 
+10:02:15.422: [pipewire] source selected, setting up screencast
+10:02:15.427: [pipewire] Server version: 1.6.8
+10:02:15.428: [pipewire] Library version: 1.6.8
+10:02:15.428: [pipewire] Header version: 1.6.4
+10:02:15.428: [pipewire] Created stream 0x55709b573810
+10:02:15.428: [pipewire] Stream 0x55709b573810 state: "connecting" (error: none)
+10:02:15.428: [pipewire] Playing stream 0x55709b573810
+10:02:15.428: [pipewire] Stream 0x55709b573810 state: "paused" (error: none)
+10:02:15.432: [pipewire] Negotiated format:
+10:02:15.432: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+10:02:15.432: [pipewire]     Modifier: 0x0
+10:02:15.432: [pipewire]     Size: 1920x1080
+10:02:15.432: [pipewire]     Framerate: 0/1
+10:02:15.436: [pipewire] Negotiated format:
+10:02:15.436: [pipewire]     Format: 12 (Spa:Enum:VideoFormat:BGRA)
+10:02:15.436: [pipewire]     Modifier: 0x100000000000002
+10:02:15.436: [pipewire]     Size: 1920x1080
+10:02:15.436: [pipewire]     Framerate: 0/1
+10:02:15.473: [pipewire] Stream 0x55709b573810 state: "streaming" (error: none)
+10:03:10.806: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+10:03:10.806: 
+10:07:54.356: ---------------------------------
+10:07:54.356: [H.264 encoder: 'simple_video_stream'] settings:
+10:07:54.356: 	encoder:      OpenH264
+10:07:54.356: 	rc_mode:      quality
+10:07:54.356: 	bitrate:      6000
+10:07:54.356: 	keyint_sec:   2
+10:07:54.356: 	profile:      main
+10:07:54.356: 	width:        1920
+10:07:54.356: 	height:       1080
+10:07:54.356: 	ffmpeg opts:  
+10:07:54.356: 
+10:07:54.359: libfdk_aac encoder created
+10:07:54.359: libfdk_aac bitrate: 160, channels: 2
+10:07:54.360: [rtmp stream: 'simple_stream'] Dynamic bitrate disabled. The encoder does not support on-the-fly bitrate reconfiguration.
+10:07:54.360: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmp://ingest.global-contribute.live-video.net/app...
+10:07:55.908: [rtmp stream: 'simple_stream'] Connection to rtmp://ingest.global-contribute.live-video.net/app (35.55.3.28) successful
+10:07:55.917: ==== Streaming Start ===============================================
+10:14:21.140: [pipewire] Stream 0x55709b573810 state: "paused" (error: none)
