@@ -1,6 +1,0 @@
-2026/07/15-10:40:59.232 1504e Creating DB /home/ypathan/.config/UpNote/IndexedDB/file__0.indexeddb.leveldb since it was missing.
-2026/07/15-10:40:59.250 1504e Reusing MANIFEST /home/ypathan/.config/UpNote/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2026/07/15-10:40:59.286 1504e Level-0 table #5: started
-2026/07/15-10:40:59.290 1504e Level-0 table #5: 2183 bytes OK
-2026/07/15-10:40:59.296 1504e Delete type=0 #3
-2026/07/15-10:40:59.296 1504e Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
