@@ -27,9 +27,8 @@
 @define-color crust #11111b;
 
 * {
-	font-family: "JetBrains Mono Nerd Font";
+	font-family: "JetBrains Mono";
 	font-size: 12px;
-	font-weight: 500;
 	margin: 0;
 	padding: 0;
 }
