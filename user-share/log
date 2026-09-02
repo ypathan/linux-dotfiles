@@ -1,9 +1,0 @@
-[Fri Jun 05 15:01:36.289696 2026] [mpm_prefork:notice] [pid 78885:tid 78885] AH00163: Apache/2.4.67 (Fedora Linux) configured -- resuming normal operations
-[Fri Jun 05 15:01:36.289856 2026] [core:notice] [pid 78885:tid 78885] AH00094: Command line: '/usr/bin/httpd -f /usr/share/gnome-user-share/dav_user_2.4.conf -C Listen 38102'
-[Fri Jun 05 15:01:46.883073 2026] [mpm_prefork:notice] [pid 78885:tid 78885] AH00169: caught SIGTERM, shutting down
-[Fri Jun 05 15:01:47.877799 2026] [mpm_prefork:notice] [pid 79228:tid 79228] AH00163: Apache/2.4.67 (Fedora Linux) configured -- resuming normal operations
-[Fri Jun 05 15:01:47.877857 2026] [core:notice] [pid 79228:tid 79228] AH00094: Command line: '/usr/bin/httpd -f /usr/share/gnome-user-share/dav_user_2.4.conf -C Listen 38102 -D RequirePasswordAlways'
-[Fri Jun 05 15:13:47.167118 2026] [mpm_prefork:notice] [pid 79228:tid 79228] AH00169: caught SIGTERM, shutting down
-[Fri Jun 05 15:13:48.282656 2026] [mpm_prefork:notice] [pid 86710:tid 86710] AH00163: Apache/2.4.67 (Fedora Linux) configured -- resuming normal operations
-[Fri Jun 05 15:13:48.282717 2026] [core:notice] [pid 86710:tid 86710] AH00094: Command line: '/usr/bin/httpd -f /usr/share/gnome-user-share/dav_user_2.4.conf -C Listen 55227 -D RequirePasswordAlways'
-[Fri Jun 05 15:34:05.748052 2026] [mpm_prefork:notice] [pid 86710:tid 86710] AH00169: caught SIGTERM, shutting down
