@@ -1,4 +1,4 @@
-font pango:JetBrains Mono Nerd Font 11
+font pango:JetBrains Mono 11
 
 # for tabbed workspace
 client.focused #000000 #000000 #ffffff #000000 #000000
@@ -18,14 +18,15 @@ set $right l
 set $term kitty
 set $menu fuzzel
 
+
 # title bar only show id 
 for_window [shell="xdg_shell"] title_format "%app_id"
 
 #wallpaper config
-output * bg /home/ypathan/Documents/wallpapers/walls/minimal/a_video_game_screen_of_a_video_game_01.jpg fill
+#output * bg /home/ypathan/Documents/wallpapers/walls/minimal/a_video_game_screen_of_a_video_game_01.jpg fill
 
 #monitor config
-output eDP-1 disable
+# output eDP-1 disable
 output DP-2 resolution 1920x1080 transform 270 pos 0,0
 output HDMI-A-1 resolution 1920x1080 
 
@@ -205,29 +206,9 @@ bindsym $mod+r mode "resize"
 	for_window [app_id="org.gnome.Calculator"] floating enable
 	for_window [app_id="io.bassi.Amberol"] floating enable, resize set width 30 ppt, resize set height 30 ppt
 
-	#assign [class="obsidian"] workspace number 6
-	#workspace 6 output HDMI-A-1
 
 
-#
-# Status Bar:
-#
-# Read `man 5 sway-bar` for more information about this section.
 bar {
- #    position top
-	# font pango:JetBrains Mono Nerd Font 11
-	#
- #    # When the status_command prints a new line to stdout, swaybar updates.
- #    # The default just shows the current date and time.
- #    status_command /home/ypathan/.config/sway/status.sh
-	#
-	# colors {
-	# 	statusline #cdd6f4
-	# 	background #1e1e2eaa
-	# 	inactive_workspace #1e1e2ef2 #313244f2 #a6adc8
-	# 	focused_workspace #1e1e2ef2 #89b4faf2 #ffffff
-	# 	active_workspace #1e1e2ef2 #585b70f2 #ffffff
-	# }
 	swaybar_command waybar
 }
 
